@@ -30,6 +30,7 @@ export default function GiftCardsPage() {
         btnText="Order Book"
         desc={gift_cards}
         align="left"
+        side="left"
         narrow={false}
         show={false}
         img="https://jb-slo.com/wp-content/uploads/2019/11/Darilni-bon.jpg"

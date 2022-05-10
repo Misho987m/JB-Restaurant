@@ -37,3 +37,34 @@
 .cancel p:last-of-type {
   margin-bottom: -3rem;
 }
+
+@media screen and (min-width: 45rem) {
+  .heading {
+    margin-left: max(4rem, 6rem);
+  }
+
+  .divider_separator {
+    margin-left: 6rem;
+  }
+
+  .reservation > div > p {
+    width: 55%;
+    margin: 1rem 0 0 6rem;
+  }
+}
+
+@media screen and (min-width: 60rem) {
+  .heading {
+    margin-left: max(6rem, 10rem);
+  }
+
+  .divider_separator {
+    margin-left: max(6rem, 10rem);
+  }
+
+  .reservation > div > p {
+    width: 55%;
+    margin-top: 1rem;
+    margin-left: max(6rem, 10rem);
+  }
+}

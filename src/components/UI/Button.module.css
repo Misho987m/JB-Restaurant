@@ -9,6 +9,7 @@
   font-size: 0.7rem;
   letter-spacing: 0.32em;
   margin: 3rem 0 1rem 0;
+  transition: all 350ms ease-in-out;
 }
 
 .button:hover,

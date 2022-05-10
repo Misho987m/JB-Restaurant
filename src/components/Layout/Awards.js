@@ -61,21 +61,23 @@ export default function Awards() {
       <div>
         <div className={classes.divider_separator}></div>
       </div>
-      {Object.keys(awards).map((key) => {
-        return (
-          <div key={Math.random()}>
-            <h4>{awards[key].title}</h4>
-            {awards[key].awards.map((award) => {
-              return (
-                <div className={classes.award} key={Math.random()}>
-                  <p>{award.year}</p>
-                  <p>{award.award}</p>
-                </div>
-              );
-            })}
-          </div>
-        );
-      })}
+      <div className={classes.flex}>
+        {Object.keys(awards).map((key) => {
+          return (
+            <div key={Math.random()} className={classes.half}>
+              <h4>{awards[key].title}</h4>
+              {awards[key].awards.map((award) => {
+                return (
+                  <div className={classes.award} key={Math.random()}>
+                    <p>{award.year}</p>
+                    <p>{award.award}</p>
+                  </div>
+                );
+              })}
+            </div>
+          );
+        })}
+      </div>
     </section>
   );
 }

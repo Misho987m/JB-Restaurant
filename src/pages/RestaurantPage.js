@@ -43,6 +43,7 @@ export default function RestaurantPage() {
         btnText="Literature"
         desc={chef_description}
         align="left"
+        side="left"
         narrow="false"
         show={false}
         img="https://jb-slo.com/wp-content/uploads/2019/11/Janez.jpg"

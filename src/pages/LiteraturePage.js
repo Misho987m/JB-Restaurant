@@ -46,6 +46,7 @@ export default function LiteraturePage() {
         btnText="Order Book"
         desc={literature_description}
         align="left"
+        side="left"
         narrow={false}
         show={true}
         img="https://jb-slo.com/wp-content/uploads/2019/12/Knjiga.jpg"
@@ -66,6 +67,7 @@ export default function LiteraturePage() {
         btnText="Order Book"
         desc={book2_description}
         align="left"
+        side="left"
         narrow={true}
         show={false}
         img="https://jb-slo.com/wp-content/uploads/2019/11/Zemlja-in-more.jpg"

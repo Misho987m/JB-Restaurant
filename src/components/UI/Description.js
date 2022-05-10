@@ -8,8 +8,13 @@ export default function Description(props) {
     ? classes.narrow + " " + classes[`align-${props.align}`]
     : classes[`align-${props.align}`];
 
+  const description_classes =
+    props.side === "left"
+      ? `${classes.description} ${classes.left}`
+      : classes.description;
+
   return (
-    <section className={classes.description}>
+    <section className={description_classes}>
       <div>
         <h4 className={headerClasses}>{props.header}</h4>
         <div className={classes[`divider-${props.align}`]}>

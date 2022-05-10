@@ -21,3 +21,9 @@
 .wrap span {
   display: block;
 }
+
+@media screen and (min-width: 45rem) {
+  .wrap p {
+    margin: 13rem 0 0 10rem;
+  }
+}

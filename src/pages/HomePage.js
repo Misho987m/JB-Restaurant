@@ -38,6 +38,7 @@ export default function HomePage() {
         btnText="Literature"
         desc={literatureDescription}
         align="left"
+        side="left"
         narrow="true"
         show={true}
         img="https://jb-slo.com/wp-content/uploads/2019/12/Domov-knjiga.jpg"

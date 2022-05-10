@@ -1,15 +1,8 @@
-import React, { useState } from "react";
 import DatePicker from "sassy-datepicker";
 
 import classes from "./TableReservation.module.css";
 
 export default function TableReservation(props) {
-  const [date, setDate] = useState(new Date());
-
-  const onChangeHandler = (date) => {
-    setDate(date);
-  };
-
   return (
     <form className={classes.form}>
       <div className={classes.overlay}></div>
@@ -19,14 +12,14 @@ export default function TableReservation(props) {
           <div className={classes.divider_separator}></div>
         </div>
       )}
-      <input type="text" placeholder="NAME *" />
-      <input type="text" placeholder="SURNAME *" />
+      <input type="text" placeholder="NAME *" className={classes.half} />
+      <input type="text" placeholder="SURNAME *" className={classes.half} />
       <input type="text" placeholder="PHONE NUMBER *" />
       <input type="email" placeholder="EMAIL *" />
       <input type="number" placeholder="NUMBER OF GUESTS *" />
       <textarea placeholder="ADDITIONAL INFORMATION " />
       <label htmlFor="date">Reservation Date</label>
-      <DatePicker className={classes.calendar} onChange={onChangeHandler} />
+      <DatePicker className={classes.calendar} />
       <label htmlFor="work_hours">Expected time on arrival:</label>
       <input type="time" id="work_hours" name="work_hours" required></input>
       <div className={classes.working_hours}>
