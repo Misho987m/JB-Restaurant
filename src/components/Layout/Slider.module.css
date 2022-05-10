@@ -1,0 +1,11 @@
+.slider-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slide {
+  max-width: 70vw;
+  display: flex;
+  margin: 2rem auto;
+}

@@ -1,0 +1,23 @@
+.wrap {
+  height: 100vh;
+  background-image: url("https://jb-slo.com/wp-content/uploads/2020/11/Domov-naslovka-1.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrap p {
+  display: inline-block;
+  font-size: 0.9rem;
+  font-weight: bold;
+  letter-spacing: 0.2rem;
+  line-height: 1.5rem;
+  padding: 1.2rem 5rem 1.5rem 1.5rem;
+  text-transform: uppercase;
+  border: 4px solid #000;
+  margin: 10rem 0 0 1.3rem;
+}
+
+.wrap span {
+  display: block;
+}

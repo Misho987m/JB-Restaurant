@@ -1,0 +1,12 @@
+.wrap {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  overflow: hidden;
+}
+
+.wrap img {
+  width: 7rem;
+  margin-left: 0.6rem;
+}

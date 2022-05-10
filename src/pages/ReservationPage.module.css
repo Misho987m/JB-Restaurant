@@ -1,0 +1,39 @@
+.reservation {
+  width: 90vw;
+  margin: 5rem auto 0 auto;
+}
+
+.divider-left {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.divider_separator {
+  width: 9rem;
+  border-top: 3px solid #000;
+  margin-left: 1rem;
+}
+
+.heading {
+  font-weight: lighter;
+  margin-left: 1rem;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+}
+
+.reservation p {
+  text-align: justify;
+  max-width: 90%;
+  margin: 1rem auto;
+  font-size: 0.95rem;
+  line-height: 1.5rem;
+}
+
+.cancel p {
+  line-height: 2rem;
+}
+
+.cancel p:last-of-type {
+  margin-bottom: -3rem;
+}

@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Brandon-font", Sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #fff;
+}
+
+a {
+  color: #a1a1a1;
+  cursor: pointer;
+}
+
+.sdp--month-picker {
+  background-color: #000;
+  color: #fff;
+}
+
+.sdp--dates-grid > p {
+  color: #000;
+}
+
+.sdp--square-btn__shadowed {
+  background: transparent !important;
+  color: #fff;
+}
+
+.sdp--square-btn {
+  margin: 0.5rem 0;
+}
+
+.sdp--dates-grid {
+  row-gap: 1rem !important;
+}
+
+.sdp--date-btn {
+  margin: 1rem 0;
+}
+
+.sdp {
+  box-shadow: none !important;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #000 !important;
+  height: 0rem !important;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  margin-top: 2rem !important;
+  font-size: 1em !important;
+}
+
+.center {
+  text-align: center;
+}
+
+.swiper-wrapper {
+  display: flex;
+  align-items: center;
+}

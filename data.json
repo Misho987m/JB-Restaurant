@@ -1,0 +1,280 @@
+{
+  "logo": "https://jb-slo.com/wp-content/uploads/2019/12/Logotip-JB.svg",
+  "home": {
+    "info": [
+      {
+        "image": "https://jb-slo.com/wp-content/uploads/2020/11/Domov-naslovka-1.jpg",
+        "title": "JB RESTAURANT",
+        "desc": [
+          "JB Restaurant is the story of the Bratovž family and is built on family love and cooperation. The restaurant is a real gourmet's paradise. Its beginnings can be traced back to the year 1992 when Janez Bratovž, having gained invaluable experience abroad, returned home to Slovenia after 5 years. JB Restaurant with its chef Janez Bratovž was the first Slovenian restaurant to make the World's 50 Best Restaurants.",
+          "Janez knows that his creative ideas are not enough and that running a fine restaurant requires a team effort with the whole family chipping in. His son, Tomaž, is chef's right hand in the kitchen, daughter Nina is an Advanced Sommelier in charge of the wine list, customer service and communication between staff, guests and media, and wife Ema, rounding it all up, takes care of the management.",
+          "It is no coincidence that JB Restaurant sits at 19 Miklošič Street, designed by the greatest Slovenian architect, Jože Plečnik. Even though it is located right in the middle of the city bustle, it offers a calm and elegant escape where our guests can relax and peacefully experience exquisite cuisine. Clean lines and the perfection of the interior décor are a special experience for many tourists who cannot wait to visit us again."
+        ],
+        "entrance_image": "https://jb-slo.com/wp-content/uploads/2019/11/Restavracija.jpg",
+        "restaurant_gallery": [
+          "https://jb-slo.com/wp-content/uploads/2019/11/Restavracija_Slika_1.jpg",
+          "https://jb-slo.com/wp-content/uploads/2019/11/Restavracija_Slika_2.jpg",
+          "https://jb-slo.com/wp-content/uploads/2019/11/Restavracija_Slika_3.jpg",
+          "https://jb-slo.com/wp-content/uploads/2019/11/Restavracija_Slika_4.jpg",
+          "https://jb-slo.com/wp-content/uploads/2019/11/Restavracija_Slika_5.jpg",
+          "https://jb-slo.com/wp-content/uploads/2019/11/Restavracija_Slika_6.jpg"
+        ],
+        "awards": {
+          "restaurant": {
+            "title": "RESTAURANT",
+            "awards": [
+              {
+                "year": "2009",
+                "award": "Confrerie de la Chaine des Rotisseurs - Conseiller Culinaire du Bailliage de Slovenia"
+              },
+              {
+                "year": "2010",
+                "award": "The Spelegrino World 50 Best Restaurant 89. place Europa Gourmet City Guide Der Feinschmecker 3F"
+              },
+              {
+                "year": "2013",
+                "award": "The Daily Meal Best Restaurants in Europe 10. place Lifetime Achievement Award for Slovenian culinary     Gault-Millau 2 haub, 16 points"
+              },
+              {
+                "year": "2014",
+                "award": "Life Learning Academia - Ambassador of knowledge"
+              },
+              {
+                "year": "2019",
+                "award": "The World 50 Best Discovery GaultMillau 2 haubi, 16,5 points The Slovenian Restaurant Awards - Regional Winner"
+              }
+            ]
+          },
+          "book": {
+            "title": "BOOK",
+            "awards": [
+              {
+                "year": "2008",
+                "award": "Earth Sea: Tastes of Slovenia, “Most Beautiful Slovenian Book of the Year” Award"
+              },
+              {
+                "year": "2009",
+                "award": "SOF, Grand Prix New York Festival, Bronze for the book Earth Sea: Tastes of Slovenia The Best Cook Book, Paris, Award “Most Beautiful Book of the Region” for Earth Sea: Tastes of Slovenia"
+              },
+              {
+                "year": "2019",
+                "award": "SOF, Grand prix 3x golden for Janez Bratovž - JB Restavracija ADSTARS Festival - Crystal award The World 50 Best Discovery ADC*E Awards Creativity International Graphic Design and Advertising Awards"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "image": "https://jb-slo.com/wp-content/uploads/2019/12/Domov-knjiga.jpg",
+        "title": "JB LITERATURE",
+        "desc": [
+          "Janez Bratovž's book is now out. Along with chef's kitchen, it also portrays the origin of first-class local ingredients. The book scours JB's homeland Slovenia and visits his favorite providers.",
+          "He chose twenty ingredients in search of which we visited twenty remote destinations. We travelled from the shores of the Adriatic Sea to the Alps and from the Pannonian Basin to the emerald rivers and rolling hills. JB is the main protagonist while one ingredient and its provider are depicted in each chapter.",
+          "The book is unique in the category of culinary literature as every copy is exclusive with its uniquely hand-painted cover. You can buy your copy in JB Restaurant and other bookshops in Slovenia or you can order your copy at info@jb-slo.com."
+        ]
+      }
+    ],
+    "menu": {
+      "six_course": ["Couvert", "Tuna", "Scampi", "Rabioli JB"],
+      "nine_course": ["Couvert", "Tuna", "Beef fillet", "Scampi"]
+    }
+  },
+  "footer": [
+    "JANEZ BRATOVŽ",
+    "JB RESTAURANT",
+    "©2020",
+    "This site takes inspiration from JB's new book.",
+    "Privacy Policy",
+    "Website by - BEPET"
+  ],
+  "menu": {
+    "menu_info": {
+      "a-la-carte": [
+        {
+          "title": "Tuna",
+          "price": "15€"
+        },
+        {
+          "title": "Beef fillet",
+          "price": "18€"
+        },
+        {
+          "title": "Kvarner scampi",
+          "price": "18€"
+        },
+        {
+          "title": "Trout",
+          "price": "15€"
+        },
+        {
+          "title": "Sweetbread",
+          "price": "18€"
+        },
+        {
+          "title": "Ravioli JB",
+          "price": "18€"
+        },
+        {
+          "title": "Foie gras",
+          "price": "20€"
+        },
+        {
+          "title": "Fish",
+          "price": "25€"
+        },
+        {
+          "title": "Veal cheeks",
+          "price": "25€"
+        },
+        {
+          "title": "Cheese",
+          "price": "12€"
+        },
+        {
+          "title": "Dessert",
+          "price": "10€"
+        }
+      ],
+      "six-course-meal": {
+        "courses": [
+          "Couvert",
+          "Beef file - Eggplant",
+          "Polenta - Chicory",
+          "Trout - Brussels sprouts",
+          "Ravioli JB",
+          "Fish - Vegetables ali - or Pig - Shallots",
+          "Dessert"
+        ],
+        "price": "65€"
+      },
+      "eight-course-meal": {
+        "courses": [
+          "Couvert",
+          "Beef file - Eggplant",
+          "Sea bass - Turnip - Daschi",
+          "Langustine - Almonds",
+          "Polenta - Chicory",
+          "Ravioli JB",
+          "Egg - Cracklings",
+          "Pig - Shallots",
+          "Dessert"
+        ],
+        "price": "90€"
+      },
+      "eleven-course-meal": {
+        "courses": [
+          "Couvert",
+          "Beef file - Eggplant",
+          "Sea bass - Turnip - Daschi",
+          "Langustine - Almonds",
+          "Polenta - Chicory",
+          "Trout - Brussels sprouts",
+          "Ravioli JB",
+          "Egg - Cracklings",
+          "Fish - Vegetables",
+          "Pig - Shallots",
+          "Pre - dessert",
+          "Dessert"
+        ],
+        "price": "120€"
+      },
+      "six-course-meal-vegeterian": {
+        "courses": [
+          "Couvert",
+          "Eggplant",
+          "Turnip - Alge",
+          "Polenta - Chicory",
+          "Brussel sprouts",
+          "Ravioli JB",
+          "Dessert"
+        ],
+        "price": "55€"
+      }
+    },
+    "menu_images": [
+      "https://jb-slo.com/wp-content/uploads/2019/12/DSCF4724-1024x768.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/DSCF6906-1024x768.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/DSCF6921-1024x768.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/DSCF6930-1024x768.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH0059-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH0143-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH0169-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH0374-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH0424-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH0454-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH0463-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH0492-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH0504-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH0684-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH1168-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH1293-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH2039-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH2064-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH2125-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH2212-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH2238-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH2375-1024x683.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH2570-1024x768.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/12/SDQH2626-1024x768.jpg"
+    ]
+  },
+  "restaurant": {
+    "chef_info": {
+      "info": {
+        "title": "CHEF",
+        "desc": [
+          "Janez Bratovž - a masterchef - is not only among the best chefs in Slovenia but in the whole culinary world. He is the pioneer of the modern Slovenian cuisine with vast experience. His dishes are prepared and served with utmost taste and knowledge.",
+          "Janez Bratovž has experienced a lot and even explored molecular gastronomy, but, in the end, discovered that the simplest solutions are also the best. He was one of the first chefs in Slovenia to uncover the importance of quality ingredients, with Ljubljana's Central Market a part of his morning routine for the last 20 years. For the chef, everything starts with his ingredients. In his own words: “If the ingredients are good, there's no need for fancy cooking techniques. I like clean, natural tastes. It means the world to me when our guests say that they ate carrots that tasted like they did 40 years ago at my restaurant.”",
+          "The menu is based on the relationship between the four classical elements: Earth, Water, Air and Fire, each representing a taste - sweet, salty, sour and bitter. The atmosphere and chef's clever dishes create the ambiance of harmonious luxury."
+        ],
+        "image": "https://jb-slo.com/wp-content/uploads/2019/11/Janez.jpg"
+      },
+      "chef_gallery": [
+        "https://jb-slo.com/wp-content/uploads/2019/11/Slika_1.jpg",
+        "https://jb-slo.com/wp-content/uploads/2019/11/Slika_2.jpg",
+        "https://jb-slo.com/wp-content/uploads/2019/11/Slika_3.jpg",
+        "https://jb-slo.com/wp-content/uploads/2019/11/Slika_4.jpg",
+        "https://jb-slo.com/wp-content/uploads/2019/12/Janez-portret.jpeg"
+      ]
+    }
+  },
+  "gift_cards": {
+    "info": {
+      "title": "GIFT CARDS",
+      "desc": [
+        "Did you ever find yourself wondering what to gift your loved ones for special occasions? Are you running out of time and ideas? Gift giving is a generous trait, but sometimes decisions can be difficult. No need to worry anymore.",
+        "At JB Restaurant, we offer an exquisite dining experience suitable for everyone – family, friends or business partners – and for every occasion – holidays, birthdays, business meetings, Christmas or New Year’s Eve Dinners. You decide the value of the gift card while your loved ones can use it whenever it is most suitable to them. Value gift cards can spare you a lot of time and worry when picking out gifts.",
+        "You can collect the gift card at our restaurant or we can send it to you by mail. Gift cards are valid for 6 months (from the day of purchase) and cannot be exchanged for money."
+      ]
+    },
+    "image": "https://jb-slo.com/wp-content/uploads/2019/11/Darilni-bon.jpg",
+    "slider_images": [
+      "https://jb-slo.com/wp-content/uploads/2019/11/Restaurant-JB-February-2017-69.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/11/Restaurant-JB-February-2017-9.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/11/Restaurant-JB-February-2017-2.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/11/Pecena-kurja-prsa-nadevana_5.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/11/Knjiga-slike-045.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/11/Knjiga-slike-016.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/11/Knjiga-slike-002.jpg",
+      "https://jb-slo.com/wp-content/uploads/2019/11/02_DQH1295.jpg"
+    ]
+  },
+  "contacts": {
+    "desc": "Experience a culinary journey in the city center.",
+    "address": [
+      "JB Restavracija",
+      "Miklošičeva 19",
+      "1000 Ljubljana",
+      "Slovenia"
+    ],
+    "map": "src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11074.735385003029!2d14.5083281!3d46. 057404!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3272839b717419bc!2sJB%20Restaurant!5e0!3m2!1sbg!2sbg!4v1651252578166!5m2!1sbg!2sbg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\">",
+    "contacts": ["+386 1 430 70 70", "info@jb-slo.com"],
+    "opening_hours": [
+      "MONDAY - FRIDAY: 12 pm - 3 pm / 6 pm - 11 pm",
+      "SATURDAY: 6 pm - 11 pm",
+      "SUNDAYS AND HOLIDAYS: CLOSED"
+    ],
+    "social_media": ["Facebook", "Instagram"]
+  },
+  "burger_menu_image": "https://jb-slo.com/wp-content/uploads/2019/12/Menu-slika.jpg"
+}
